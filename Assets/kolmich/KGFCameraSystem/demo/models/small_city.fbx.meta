@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 4c16dfebbf08d42cea82e4ffc0717b62
+labels:
+- kgf
+- camera
+- KGFCameraSystem
+- orbiter
+- orbitcamera
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: streets
+    100002: buildings_left
+    100004: bridges
+    100006: //RootNode
+    100008: benches
+    100010: sign
+    100012: ground
+    100014: lamps
+    100016: water
+    100018: buildings_park
+    100020: buildings_right
+    100022: Circle
+    100024: small_park
+    100026: trees
+    100028: buildings_park_001
+    100030: buildings_park_002
+    100032: buildings_park_003
+    100034: buildings_right_001
+    100036: buildings_left_001
+    100038: buildings_park_004
+    100040: buildings_park_005
+    100042: buildings_park_006
+    100044: buildings_park_007
+    100046: buildings_park_008
+    100048: buildings_left_002
+    100050: buildings_left_003
+    100052: buildings_left_004
+    100054: buildings_left_005
+    100056: buildings_right_002
+    100058: buildings_right_003
+    100060: buildings_right_004
+    100062: buildings_right_005
+    100064: buildings_right_006
+    400000: streets
+    400002: buildings_left
+    400004: bridges
+    400006: //RootNode
+    400008: benches
+    400010: sign
+    400012: ground
+    400014: lamps
+    400016: water
+    400018: buildings_park
+    400020: buildings_right
+    400022: Circle
+    400024: small_park
+    400026: trees
+    400028: buildings_park_001
+    400030: buildings_park_002
+    400032: buildings_park_003
+    400034: buildings_right_001
+    400036: buildings_left_001
+    400038: buildings_park_004
+    400040: buildings_park_005
+    400042: buildings_park_006
+    400044: buildings_park_007
+    400046: buildings_park_008
+    400048: buildings_left_002
+    400050: buildings_left_003
+    400052: buildings_left_004
+    400054: buildings_left_005
+    400056: buildings_right_002
+    400058: buildings_right_003
+    400060: buildings_right_004
+    400062: buildings_right_005
+    400064: buildings_right_006
+    2300000: streets
+    2300002: buildings_left
+    2300004: bridges
+    2300006: benches
+    2300008: sign
+    2300010: ground
+    2300012: lamps
+    2300014: water
+    2300016: buildings_park
+    2300018: buildings_right
+    2300020: Circle
+    2300022: small_park
+    2300024: trees
+    2300026: buildings_park_001
+    2300028: buildings_park_002
+    2300030: buildings_park_003
+    2300032: buildings_right_001
+    2300034: buildings_left_001
+    2300036: buildings_park_004
+    2300038: buildings_park_005
+    2300040: buildings_park_006
+    2300042: buildings_park_007
+    2300044: buildings_park_008
+    2300046: buildings_left_002
+    2300048: buildings_left_003
+    2300050: buildings_left_004
+    2300052: buildings_left_005
+    2300054: buildings_right_002
+    2300056: buildings_right_003
+    2300058: buildings_right_004
+    2300060: buildings_right_005
+    2300062: buildings_right_006
+    3300000: streets
+    3300002: buildings_left
+    3300004: bridges
+    3300006: benches
+    3300008: sign
+    3300010: ground
+    3300012: lamps
+    3300014: water
+    3300016: buildings_park
+    3300018: buildings_right
+    3300020: Circle
+    3300022: small_park
+    3300024: trees
+    3300026: buildings_park_001
+    3300028: buildings_park_002
+    3300030: buildings_park_003
+    3300032: buildings_right_001
+    3300034: buildings_left_001
+    3300036: buildings_park_004
+    3300038: buildings_park_005
+    3300040: buildings_park_006
+    3300042: buildings_park_007
+    3300044: buildings_park_008
+    3300046: buildings_left_002
+    3300048: buildings_left_003
+    3300050: buildings_left_004
+    3300052: buildings_left_005
+    3300054: buildings_right_002
+    3300056: buildings_right_003
+    3300058: buildings_right_004
+    3300060: buildings_right_005
+    3300062: buildings_right_006
+    4300000: Cube_002
+    4300002: Plane_002
+    4300004: Cube_001
+    4300006: Cube
+    4300008: Plane_001
+    4300010: Cylinder_002
+    4300012: Cylinder_001
+    4300014: Cylinder
+    4300016: Plane
+    4300018: Cube_003
+    4300020: Cube_004
+    4300022: Cylinder_003
+    4300024: benches
+    4300026: lamps
+    4300028: buildings
+    4300030: water
+    4300032: sign
+    4300034: streets
+    4300036: bridges
+    4300038: ground
+    4300040: buildings_park
+    4300042: buildings_left
+    4300044: buildings_right
+    4300046: Circle
+    4300048: small_park
+    4300050: trees
+    4300052: buildings_park_003
+    4300054: buildings_park_002
+    4300056: buildings_park_001
+    4300058: buildings_left_001
+    4300060: buildings_right_001
+    4300062: buildings_right_006
+    4300064: buildings_right_005
+    4300066: buildings_right_004
+    4300068: buildings_right_003
+    4300070: buildings_right_002
+    4300072: buildings_left_005
+    4300074: buildings_left_004
+    4300076: buildings_left_003
+    4300078: buildings_left_002
+    4300080: buildings_park_008
+    4300082: buildings_park_007
+    4300084: buildings_park_006
+    4300086: buildings_park_005
+    4300088: buildings_park_004
+    7400000: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 30
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
